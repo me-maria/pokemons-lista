@@ -1,0 +1,10 @@
+ /*regras css*/
+*{
+    margin: 0;/*espaçamento externo/ pode ser usado para separar um elemento do outro*/
+    padding:0;/*espaçamento interno/utilizada para definir a distância entre o conteúdo  */
+    box-sizing: border-box;/*nos permite incluir o preenchimento e a borda na largura e altura total de um elemento.*/  
+}
+
+ul{
+    list-style:none;/*estilizando lista*/
+}
